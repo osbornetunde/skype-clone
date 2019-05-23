@@ -2,13 +2,20 @@
   "name": "skype",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://osbornetunde.github.io/skype-clone",
   "dependencies": {
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
     "faker": "^4.1.0",
+    "gh-pages": "^2.0.1",
+    "immer": "^3.1.2",
     "lodash": "^4.17.11",
+    "prettier": "^1.17.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
+    "redux-undo": "^1.0.0-beta9-9-7",
     "shortid": "^2.2.14",
     "txtgen": "^2.2.2"
   },
@@ -16,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -26,5 +35,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0"
+  }
 }

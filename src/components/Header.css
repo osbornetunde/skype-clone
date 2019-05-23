@@ -10,7 +10,7 @@
 
 .Header__name {
     margin: auto .5rem;
-    color: rgba(39, 37, 37, 0.836);
+    color: #fff;
 }
 
 .Header__image {
@@ -21,5 +21,5 @@
 }
 .Header__status {
     margin-left: 1rem;
-    color: #f1e4e4de;
+    color: #fff;
 }
