@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/skype-clone/precache-manifest.8640acfb1c864e23a9582e6f22b7a632.js"
+  "/skype-clone/precache-manifest.3f86ee4a35b473dcc4588bb0f7ec8e8b.js"
 );
 
 workbox.clientsClaim();

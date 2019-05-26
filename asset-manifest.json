@@ -1,13 +1,13 @@
 {
-  "main.css": "/skype-clone/static/css/main.707c3022.chunk.css",
-  "main.js": "/skype-clone/static/js/main.b347787c.chunk.js",
-  "main.js.map": "/skype-clone/static/js/main.b347787c.chunk.js.map",
-  "runtime~main.js": "/skype-clone/static/js/runtime~main.41896d67.js",
-  "runtime~main.js.map": "/skype-clone/static/js/runtime~main.41896d67.js.map",
-  "static/js/2.121d8c5f.chunk.js": "/skype-clone/static/js/2.121d8c5f.chunk.js",
-  "static/js/2.121d8c5f.chunk.js.map": "/skype-clone/static/js/2.121d8c5f.chunk.js.map",
+  "main.css": "/skype-clone/static/css/main.e9974f4a.chunk.css",
+  "main.js": "/skype-clone/static/js/main.b5e06776.chunk.js",
+  "main.js.map": "/skype-clone/static/js/main.b5e06776.chunk.js.map",
+  "runtime~main.js": "/skype-clone/static/js/runtime~main.9f1663f3.js",
+  "runtime~main.js.map": "/skype-clone/static/js/runtime~main.9f1663f3.js.map",
+  "static/js/2.df947f80.chunk.js": "/skype-clone/static/js/2.df947f80.chunk.js",
+  "static/js/2.df947f80.chunk.js.map": "/skype-clone/static/js/2.df947f80.chunk.js.map",
   "index.html": "/skype-clone/index.html",
-  "precache-manifest.8640acfb1c864e23a9582e6f22b7a632.js": "/skype-clone/precache-manifest.8640acfb1c864e23a9582e6f22b7a632.js",
+  "precache-manifest.3f86ee4a35b473dcc4588bb0f7ec8e8b.js": "/skype-clone/precache-manifest.3f86ee4a35b473dcc4588bb0f7ec8e8b.js",
   "service-worker.js": "/skype-clone/service-worker.js",
-  "static/css/main.707c3022.chunk.css.map": "/skype-clone/static/css/main.707c3022.chunk.css.map"
+  "static/css/main.e9974f4a.chunk.css.map": "/skype-clone/static/css/main.e9974f4a.chunk.css.map"
 }
